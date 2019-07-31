@@ -1,0 +1,2 @@
+Il modulo Free Radio Network viene utilizzato per connettersi ai server Free Radio Network.
+Per uscire dal modulo, inviare un segno numerico.
