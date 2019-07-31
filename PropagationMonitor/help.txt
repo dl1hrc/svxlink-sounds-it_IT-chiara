@@ -1,0 +1,1 @@
+Il monitor propagazione ricevere avvisi di propagazione da VHF-DX dot net. Questi sono annunciati da messaggi vocali, appena vengono ricevute. I tipi di messaggi annunciati sono per esempio sporadici, aurora o tropo aperture

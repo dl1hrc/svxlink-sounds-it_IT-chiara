@@ -1,0 +1,1 @@
+Il pappagallo modulo ripete tutto quello che dici. Può essere utilizzato come ripetitore simplex o per controllare la propria trasmissione. Inoltre, i caratteri DTMF trasmessi vengono annunciati. Come con tutti gli altri moduli di questo è terminato con la trasmissione del simbolo cancelletto
